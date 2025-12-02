@@ -1,0 +1,2 @@
+# inventario-main
+Inventario automatizado
